@@ -29,7 +29,7 @@ nav a {
 }
 
 nav a:hover {
-	color: #C78C19;
+	color: #FFFFFF;
 	text-decoration: underline;
 }
 
@@ -52,7 +52,7 @@ nav a:hover {
 }
 
 .produtos li:hover {
-	border-color: #C78C19;
+	border-color: #77cefc;
 }
 
 .produtos li:active {
@@ -119,7 +119,7 @@ form label, form legend {
 .enviar {
 	width:40%;
 	padding: 15px 0;
-	background: orange;
+	background: #77cefc;
 	color: white;
 	font-weight: bold;
 	font-size: 18px;
@@ -130,7 +130,7 @@ form label, form legend {
 }
 
 .enviar:hover {
-	background: darkorange;
+	background: #77cefc;
 	transform: scale(1.2);
 }
 
